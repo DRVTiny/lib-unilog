@@ -3,9 +3,9 @@ module github.com/DRVTiny/lib-unilog
 go 1.22.4
 
 require (
+	github.com/DRVTiny/lib-tools v0.0.0-20260203204908-c75cc251a98d
 	github.com/dsnet/try v0.0.3
 	github.com/stretchr/testify v1.9.0
-	github.com/DRVTiny/lib-tools v0.0.0-20240627122530-7499410f4488
 )
 
 require (
